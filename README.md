@@ -37,7 +37,7 @@ Open a pull request.
 Please ensure your code adheres to our coding standards and include relevant tests.
 
 ##  License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [License](#license) file for details.
 
 ##  Contact
 If you have any questions, suggestions, or feedback, please feel free to contact us:
