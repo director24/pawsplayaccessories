@@ -23,10 +23,10 @@ PawsPlayAccessories is a project focused on delivering the best pet accessories 
 - **Wide Range of Products:** From collars and leashes to beds and toys.
 - **Pet Safety:** Products designed with the safety and comfort of your pets in mind.
 
-##Usage
+##  Usage
 Once you have cloned the repository, you can explore the different products and accessories listed. Each product category is organized into separate directories. Feel free to browse through them to find the perfect items for your pets.
 
-##Contributing
+##  Contributing
 We welcome contributions from the community! If you have ideas for new products or improvements to existing ones, please follow these steps:
 
 Fork the repository.
@@ -36,10 +36,10 @@ Push to the branch: git push origin feature/your-feature-name.
 Open a pull request.
 Please ensure your code adheres to our coding standards and include relevant tests.
 
-##License
+##  License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Contact
+##  Contact
 If you have any questions, suggestions, or feedback, please feel free to contact us:
 
 Email: support@pawsplayaccessories.com
