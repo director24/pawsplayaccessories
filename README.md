@@ -23,13 +23,6 @@ PawsPlayAccessories is a project focused on delivering the best pet accessories 
 - **Wide Range of Products:** From collars and leashes to beds and toys.
 - **Pet Safety:** Products designed with the safety and comfort of your pets in mind.
 
-## Installation
-
-To get started with this repository, you can clone it to your local machine using the following command:
-
-```bash
-git clone https://github.com/your-username/pawsplayaccessories.git
-
 ##Usage
 Once you have cloned the repository, you can explore the different products and accessories listed. Each product category is organized into separate directories. Feel free to browse through them to find the perfect items for your pets.
 
@@ -55,4 +48,11 @@ Thank you for visiting PawsPlayAccessories! We hope you find everything you need
 
 
 Feel free to replace placeholder information such as `your-username` and `support@pawsplayaccessories.com` with your actual details.
+
+## Installation
+
+To get started with this repository, you can clone it to your local machine using the following command:
+
+```bash
+git clone https://github.com/your-username/pawsplayaccessories.git
 
